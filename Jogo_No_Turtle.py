@@ -3,7 +3,6 @@
                              TRABALHO INDIVIDUAL 1 DE FUNDAMENTOS DE PROGRAMAÇÃO
                                          CORRIDA COM OBSTÁCULOS
                                   DISCENTE: Mahatma Gandhi Pereira Leite
-                                            MATRÍCULA: 542480
 
 '''
 # SESSÃO DE IMPORTAÇÕES DE BIBLIOTECAS DO PYTHON:
