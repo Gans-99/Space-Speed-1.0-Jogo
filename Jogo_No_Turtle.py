@@ -1,10 +1,3 @@
-'''
-
-                             TRABALHO INDIVIDUAL 1 DE FUNDAMENTOS DE PROGRAMAÇÃO
-                                         CORRIDA COM OBSTÁCULOS
-                                  DISCENTE: Mahatma Gandhi Pereira Leite
-
-'''
 # SESSÃO DE IMPORTAÇÕES DE BIBLIOTECAS DO PYTHON:
 import turtle, random, math, time     # Importa a biblioteca Turtle, Sorteio e Fórmulas de Matemática
 
@@ -369,4 +362,5 @@ janela.onkey(iniciarJogo, 'space')                  # Comando para apertar botã
 janela.listen()                                     # Permite que os comandos funcionem
 
 # SESSÃO DE MANUTENÇÃO DA TELA ABERTA:
+
 janela.mainloop()
