@@ -38,7 +38,7 @@ Este trabalho foi desenvolvido para consolidar conceitos fundamentais de program
 
 ## ⚙️ Tecnologias e Bibliotecas
 
-* **Python 3.x**
+* **Python 3.8**
 * **Turtle Graphics**
 * **Random**
 * **Math**
